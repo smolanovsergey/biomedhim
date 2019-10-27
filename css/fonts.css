@@ -1,0 +1,19 @@
+@font-face {
+    font-family: segoeuibold; /* Гарнитура шрифта */
+    src: url(../fonts/segoeuibold.ttf); /* Путь к файлу со шрифтом */
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: segoeuiregular; /* Гарнитура шрифта */
+    src: url(../fonts/segoeuiregular.ttf); /* Путь к файлу со шрифтом */
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: segoeuisemibold; /* Гарнитура шрифта */
+    src: url(../fonts/segoeuisemibold.ttf); /* Путь к файлу со шрифтом */
+    font-style: normal;
+    font-weight: normal;
+}

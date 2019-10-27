@@ -1,0 +1,155 @@
+.info_1 {
+    position: absolute;
+    top: 50px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 15px;
+    width: 350px;
+    height: auto;
+    right: 80px;
+    display: none;
+}
+.task_1:hover .info_1{
+    display: block;
+    z-index: 999999;
+    position:absolute;
+}
+.info_2 {
+    position: absolute;
+    top: 50px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 15px;
+    width: 350px;
+    height: auto;
+    right: 80px;
+    display: none;
+}
+.task_2:hover .info_2{
+    display: block;
+    z-index: 999999;
+    position:absolute;
+}.info_3 {
+     position: absolute;
+     top: 50px;
+     background-color: rgba(0,0,0,0.3);
+     border-radius: 15px;
+     width: 350px;
+     height: auto;
+     right: 80px;
+     display: none;
+ }
+.task_3:hover .info_3{
+    display: block;
+    z-index: 999999;
+    position:absolute;
+}
+.info_4 {
+    position: absolute;
+    top: 50px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 15px;
+    width: 350px;
+    height: auto;
+    right: 80px;
+    display: none;
+}
+.task_4:hover .info_4{
+    display: block;
+    z-index: 999999;
+    position:absolute;
+}
+.info_5 {
+    position: absolute;
+    top: 50px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 15px;
+    width: 350px;
+    height: auto;
+    right: 80px;
+    display: none;
+}
+.task_5:hover .info_5{
+    display: block;
+    z-index: 999999;
+    position:absolute;
+}
+.info_6 {
+    position: absolute;
+    top: 50px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 15px;
+    width: 350px;
+    height: auto;
+    right: 80px;
+    display: none;
+}
+.task_6:hover .info_6{
+    display: block;
+    z-index: 999999;
+    position:absolute;
+}
+.info_7 {
+    position: absolute;
+    top: 50px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 15px;
+    width: 350px;
+    height: auto;
+    right: 80px;
+    display: none;
+}
+.task_7:hover .info_7{
+    display: block;
+    z-index: 999999;
+    position:absolute;
+}
+.info_8 {
+    position: absolute;
+    top: 50px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 15px;
+    width: 350px;
+    height: auto;
+    right: 80px;
+    display: none;
+}
+.task_8:hover .info_8{
+    display: block;
+    z-index: 999999;
+    position:absolute;
+}
+.info_9 {
+    position: absolute;
+    top: 50px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 15px;
+    width: 350px;
+    height: auto;
+    right: 80px;
+    display: none;
+}
+.task_9:hover .info_9{
+    display: block;
+    z-index: 999999;
+    position:absolute;
+}
+.info_10 {
+    position: absolute;
+    top: 50px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 15px;
+    width: 350px;
+    height: auto;
+    right: 80px;
+    display: none;
+}
+.task_10:hover .info_10{
+    display: block;
+    z-index: 999999;
+    position:absolute;
+}
+.shadow {
+    background: grey; /* Цвет фона */
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+    padding: 10px;
+    color: white;
+}
